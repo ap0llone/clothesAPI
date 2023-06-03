@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "White T-Shirt",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":49.99,
+            "category": "Men's collection",
+            "img": "mencollection/img1.png",
+            "isPopular": false
+        },
+        {
+            "id": 2,
+            "title": "Galaxy T-Shirt",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price": 39.99,
+            "category": "Men's collection",
+            "img": "mencollection/img2.png",
+            "isPopular": true
+        },
+        {
+            "id": 3,
+            "title": "Racing Suit",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":89.99,
+            "category": "Men's collection",
+            "img": "mencollection/img3.png",
+            "isPopular": false
+        },
+        {
+            "id": 4,
+            "title": "Gray Jacket",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":69.99,
+            "category": "Men's collection",
+            "img": "mencollection/img4.png",
+            "isPopular": false
+        },
+        {
+            "id": 5,
+            "title": "New Orlean T-Shirt",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":29.99,
+            "category": "Men's collection",
+            "img": "mencollection/img5.png",
+            "isPopular": true
+            
+        },
+        {
+            "id": 6,
+            "title": "Revenge T-Shirt",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":19.99,
+            "category": "Men's collection",
+            "img": "mencollection/img6.png",
+            "isPopular": false
+            
+        },
+        {
+            "id": 7,
+            "title": "Blue Suit",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":79.99,
+            "category": "Women's collection",
+            "img": "womencollection/img1.png",
+            "isPopular": false
+        },
+        {
+            "id": 8,
+            "title": "Pink Suit",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price": 19.99,
+            "category": "Women's collection",
+            "img": "womencollection/img2.png",
+            "isPopular": false
+        },
+        {
+            "id": 9,
+            "title": "Blue Jeans",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":39.99,
+            "category": "Women's collection",
+            "img": "womencollection/img3.png",
+            "isPopular": true
+        },
+        {
+            "id": 10,
+            "title": "Camouflage T-Shirt & Jeans",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":79.99,
+            "category": "Women's collection",
+            "img": "womencollection/img4.png",
+            "isPopular": false
+        },
+        {
+            "id": 11,
+            "title": "Aqua Suit",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price":99.99,
+            "category": "Women's collection",
+            "img": "womencollection/img5.png",
+            "isPopular": false
+        },
+        {
+            "id": 12,
+            "title": "Fashion",
+            "info": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Voluptatibus ad numquam odio blanditiis cumque aliquid neque id animi sunt doloribus tenetur esse, saepe quaerat aspernatur optio error accusantium ab repellat.",
+            "price": 109.99,
+            "category": "Women's collection",
+            "img": "womencollection/img6.png",
+            "isPopular": false
+        }
+    ]
+}
